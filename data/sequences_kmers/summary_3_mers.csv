@@ -1,0 +1,3 @@
+k,Dataset,Features,PCA_comps,KMeans_k,KMeans_Sil,KMeans_DB,GMM_k,GMM_Sil,GMM_DB,Agg_k,Agg_linkage,Agg_Sil,Agg_DB
+3,Complete,64,9,7,0.5559,0.7669,4,0.5379,0.8741,7,complete,0.5641,0.6959
+3,All,64,20,8,0.2388,1.4699,7,0.2252,1.6411,7,ward,0.2238,1.7797
